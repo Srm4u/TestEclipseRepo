@@ -3,7 +3,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 
-public class WebDrJSG {
+public class WebDrJSG2 {
 
 	/**
 	 * @param args
